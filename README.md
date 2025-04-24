@@ -58,7 +58,7 @@ Confusion matrices were used to compare model predictions against human-labeled 
 - **Anticipatory Pleasure (p = 0.004)** → Positive sentiment linked to greater anticipation
 - **Consummatory Pleasure (p = 0.026)** → Positive sentiment linked to greater enjoyment
 
-Overall: Sentiment significantly tracks emotional and cognitive traits.
+Overall these results suggest that individuals with higher sentiment ratings tend to have higher pleasure anticipation and lower anxiety scores.
 
 ## Future Directions
 
